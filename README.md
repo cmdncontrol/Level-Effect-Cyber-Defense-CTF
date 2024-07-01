@@ -92,57 +92,55 @@
 
 * [What you say!?](<challenges/Incident Response/what-you-say>) <em>(Zig.exe,beginner)</em>
 
-* [Gimme _____ Checks Towards the Door!](challenges/Incident Response/gimme--checks-towards-the-door/) <em>(beginner,Zig.exe)</em>
+* [Gimme _____ Checks Towards the Door!](<challenges/Incident Response/gimme--checks-towards-the-door/>) <em>(beginner,Zig.exe)</em>
 
-* [Save zig move zig](challenges/Incident Response/save-zig-move-zig/) <em>(beginner,Zig.exe)</em>
+* [Save zig move zig](<challenges/Incident Response/save-zig-move-zig/>) <em>(beginner,Zig.exe)</em>
 
-* [Newws flash 2](challenges/Incident Response/newws-flash-2/) <em>(Intermediate)</em>
+* [Newws flash 2](<challenges/Incident Response/newws-flash-2/>) <em>(Intermediate)</em>
 
-* [Autoruns 1](challenges/Incident Response/autoruns-1/) <em>(Intermediate)</em>
+* [Autoruns 1](<challenges/Incident Response/autoruns-1/>) <em>(Intermediate)</em>
 
-* [Autoruns 2](challenges/Incident Response/autoruns-2/) <em>(Intermediate)</em>
+* [Autoruns 2](<challenges/Incident Response/autoruns-2/>) <em>(Intermediate)</em>
 
-* [Autoruns 3](challenges/Incident Response/autoruns-3/) <em>(Intermediate)</em>
+* [Autoruns 3](<challenges/Incident Response/autoruns-3/>) <em>(Intermediate)</em>
 
-* [Keylogger Out #1](challenges/Incident Response/keylogger-out-1/) <em>(intermediate,Zig.exe)</em>
+* [Keylogger Out #1](<challenges/Incident Response/keylogger-out-1/>) <em>(intermediate,Zig.exe)</em>
 
-* [One Of These Process Names Is Not Like The Other](challenges/Incident Response/one-of-these-process-names-is-not-like-the-other/) <em>(intermediate,Zig.exe)</em>
+* [One Of These Process Names Is Not Like The Other](<challenges/Incident Response/one-of-these-process-names-is-not-like-the-other/>) <em>(intermediate,Zig.exe)</em>
 
-* [Whose App Was It Anyway?](challenges/Incident Response/whose-app-was-it-anyway/) <em>(intermediate,Zig.exe)</em>
+* [Whose App Was It Anyway?](<challenges/Incident Response/whose-app-was-it-anyway/>) <em>(intermediate,Zig.exe)</em>
 
-* [Autoruns 4](challenges/Incident Response/autoruns-4/) <em>(Intermediate)</em>
+* [Autoruns 4](<challenges/Incident Response/autoruns-4/>) <em>(Intermediate)</em>
 
-* [Your Base, My Base](challenges/Incident Response/your-base-my-base/) <em>(intermediate,Zig.exe)</em>
+* [Your Base, My Base](<challenges/Incident Response/your-base-my-base/>) <em>(intermediate,Zig.exe)</em>
 
-* [Autoruns 5](challenges/Incident Response/autoruns-5/) <em>(Advanced)</em>
+* [Autoruns 5](<challenges/Incident Response/autoruns-5/>) <em>(Advanced)</em>
 
-* [Where Did I Come From?](challenges/Incident Response/where-did-i-come-from/) <em>(advanced,Zig.exe)</em>
-
-* [Key Logger #2](challenges/Incident Response/key-logger-2/) <em>(advanced,Zig.exe)</em>
+* [Where Did I Come From?](<challenges/Incident Response/key-logger-2/>) <em>(advanced,Zig.exe)</em>
   
   ### Email Security
 
-* [Identity crisis](challenges/Email Security/identity-crisis/) <em>(Beginner)</em>
+* [Identity crisis](<challenges/Email Security/identity-crisis/>) <em>(Beginner)</em>
 
-* [Safe for skin safe for emails...](challenges/Email Security/safe-for-skin-safe-for-emails/) <em>(beginner)</em>
+* [Safe for skin safe for emails...](<challenges/Email Security/safe-for-skin-safe-for-emails/>) <em>(beginner)</em>
 
-* [Out phishing](challenges/Email Security/out-phishing/) <em>(Intermediate)</em>
+* [Out phishing](<challenges/Email Security/out-phishing/>) <em>(Intermediate)</em>
 
-* [2045th trick in the book](challenges/Email Security/2045th-trick-in-the-book/) <em>(Intermediate)</em>
+* [2045th trick in the book](<challenges/Email Security/2045th-trick-in-the-book/>) <em>(Intermediate)</em>
   
   ### Log Analysis
 
-* [Name that event 1](challenges/Log Analysis/name-that-event-1/) <em>(Beginner)</em>
+* [Name that event 1](<challenges/Log Analysis/name-that-event-1/>) <em>(Beginner)</em>
 
-* [Name that event 2](challenges/Log Analysis/name-that-event-2/) <em>(Beginner)</em>
+* [Name that event 2](<challenges/Log Analysis/name-that-event-2/>) <em>(Beginner)</em>
 
-* [Name that event 3](challenges/Log Analysis/name-that-event-3/) <em>(Beginner)</em>
+* [Name that event 3](<challenges/Log Analysis/name-that-event-3/>) <em>(Beginner)</em>
 
-* [Name that event 4](challenges/Log Analysis/name-that-event-4/) <em>(Beginner)</em>
+* [Name that event 4](<challenges/Log Analysis/name-that-event-4/>) <em>(Beginner)</em>
 
-* [whoami](challenges/Log Analysis/whoami/) <em>(Beginner)</em>
+* [whoami](<challenges/Log Analysis/whoami/>) <em>(Beginner)</em>
 
-* [In the system](challenges/Log Analysis/in-the-system/) <em>(Beginner,Made by CDA Alumni)</em>
+* [In the system](<challenges/Log Analysis/in-the-system/>) <em>(Beginner,Made by CDA Alumni)</em>
   
   ### Scripting
 
