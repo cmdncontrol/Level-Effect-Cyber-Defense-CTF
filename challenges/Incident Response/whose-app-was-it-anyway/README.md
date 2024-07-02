@@ -18,7 +18,7 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 ## Solution
 
-Zig runs checks and cmd's in the background. By using Process Explorer I was able to dive into each cmd. One of these added an application to the HKCU\Software\Microsoft\Windows\CurrentVersion\Run location to run on startup. 
+Zig runs checks and cmd's in the background. By using Process Monitor (procmon) I was able to dive into each cmd. One of these added an application to the HKCU\Software\Microsoft\Windows\CurrentVersion\Run location to run on startup. 
 
 
 
