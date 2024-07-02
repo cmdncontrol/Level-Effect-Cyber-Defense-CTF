@@ -20,7 +20,7 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 ## Solution
 
-Using Process Explorer after launching Zig, I captured a scheduled task creation. 
+Using Process Monitor (procmon) after launching Zig, I captured a scheduled task creation. 
 
 
 
