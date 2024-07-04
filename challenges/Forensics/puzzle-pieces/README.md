@@ -18,7 +18,7 @@ You can recreate the QR in excel and make it very painfully slow like I did... o
 
 You'll recreate the image as best you can from the 3 fragments we have. 
 
-![image](\images\Recreated%20QR%20Code.png)
+![image](/images/Recreated%20QR%20Code.png)
 
 Once you have the 3 fragments built, you can go to Tools -> Extract Information to see the decoded information.
 
