@@ -12,17 +12,11 @@ I had a flag on this handy QR code, but a fiend cut it up into pieces and threw 
 
 * [fragment3.webp](files/fragment3.webp)
 
-
-
 ## Solution
 
 You can recreate the QR in excel and make it very painfully slow like I did... or you can use [QRazyBox - QR Code Analysis and Recovery Toolkit (merri.cx)](https://merri.cx/qrazybox/) to recreate the QR code to make it easier. 
 
-
-
 You'll recreate the image as best you can from the 3 fragments we have. 
-
-
 
 ![image](\images\Recreated%20QR%20Code.png)
 
@@ -44,8 +38,4 @@ Decoded data : loæeleffect{r3dund4n7_d4t4} Congr`ts!UEll playUUUJªª
 Final Decoded string : loæeleffect{r3dund4n7_d4t4} Congr`ts!UEll playUUUJªª
 ```
 
-
-
 **Flag: leveleffect{r3dund4n7_d4t4}**
-
-
