@@ -20,7 +20,7 @@ You'll recreate the image as best you can from the 3 fragments we have.
 
 ![image](\images\Recreated%20QR%20Code.png)
 
-Once you have the 3 fragments built, you can go to Tools -> Extract Information to see the decoded information 
+Once you have the 3 fragments built, you can go to Tools -> Extract Information to see the decoded information.
 
 ```
 QR version : 3 (29x29)
