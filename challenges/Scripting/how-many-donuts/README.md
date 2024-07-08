@@ -8,8 +8,6 @@ Samwise, I've had enough of your lembas bread. I want donuts. How many you ask? 
 
 * [HowManyDonuts.sh](files/HowManyDonuts.sh)
 
-
-
 ## Solution
 
 ```bash
@@ -36,7 +34,6 @@ for i in {1..26}; do
         ascii_values[j]=$((ascii_values[j]-1))
     done
 done
-
 ```
 
 **Flag: acoupleofboxen**
