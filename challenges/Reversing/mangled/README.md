@@ -18,26 +18,16 @@ WARNING - This challenge has malware-like behavior involved. Do not run this on 
 
 This executable is packed by UPX as we can see when we run it through Detect It Easy, but we cannot use UPX to unpack it. 
 
-
-
 Using x64dbg I was able to find the tail jump at
 
 Address: 00007FF6FD0DB9BB
 
 Disassembly: jmp packed-flag.7FF6FD0C10ED
 
-
-
 Set a hardware breakpoint and remove any other breakpoints. Run the program until it hits this breakpoint and step into the instruction so that way it jumps to the Original Entry Point at: 00007FF6FD0C10ED 
-
-
 
 Then click the strings icon represented by a capital A to reveal the strings in the unpacked program. 
 
-
-
-![image]()
-
-
+![image](/images/Mangled.png)
 
 **Flag: leveleffect{upx_i_did_it_again}**
