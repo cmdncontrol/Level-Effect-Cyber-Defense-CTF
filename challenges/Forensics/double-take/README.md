@@ -79,6 +79,4 @@ bGV2ZWxlZmZlY3R7c25lYWt5X3V0Zi0xNmxlfQ==
 
 The last row of output is clearly base64, let's toss it into cyberchef to decode it
 
-
-
 **Flag: leveleffect{sneaky_utf-16le}**

@@ -16,8 +16,6 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 * [zig.zip](files/zig.zip)
 
-
-
 ## Solution
 
 Download burpsuite and ProxyCap
@@ -35,9 +33,5 @@ Enable Intercept in Burp
 Run Zig.exe 
 
 Capture traffic and find the culprit
-
-
-
-
 
 **Flag: https://cda-lab-data.s3.amazonaws.com/FAQingFriday/rundlll32.exe**
