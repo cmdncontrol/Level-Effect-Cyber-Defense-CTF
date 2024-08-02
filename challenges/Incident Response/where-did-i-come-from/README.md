@@ -34,4 +34,6 @@ Run Zig.exe
 
 Capture traffic and find the culprit
 
-**Flag: https://cda-lab-data.s3.amazonaws.com/FAQingFriday/rundlll32.exe**
+```
+https://cda-lab-data.s3.amazonaws.com/FAQingFriday/rundlll32.exe
+```

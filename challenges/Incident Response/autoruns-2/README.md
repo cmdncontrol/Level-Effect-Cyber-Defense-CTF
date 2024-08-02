@@ -32,6 +32,4 @@ leveleffect{another_one_bites_the_dust}
 
 **Flag: leveleffect{another_one_bites_the_dust}**
 
-
-
 You can also use AutoRuns and look at the WMI tab for this one. There is a CommandLineEventConsumer launching notepad.exe and the name of the consumer is the same base64 encoded string

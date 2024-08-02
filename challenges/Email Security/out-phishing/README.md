@@ -8,3 +8,14 @@ A Goodcorp employee recently reported a phishing attempt to his company email ad
 
 * [out_phishing.txt](files/out_phishing.txt)
 
+
+
+We can use MXToolbox to reveal the Originating Server IP from this header which is 193.217.1.27. We can then use the whois feature by domaintools to search and find the origin country.
+
+
+
+```
+leveleffect{Lithuania}
+```
+
+

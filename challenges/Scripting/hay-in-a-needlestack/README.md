@@ -14,8 +14,6 @@ data.txt = the long string from the equation
 
 The regex in the script below will evaluate for 6 digits in a row and provide the entry immedaitely following those 6. It will capture the following character if it is a digit, letter, or special character {, }, or _.
 
-
-
 ```python
 import re
 
@@ -38,15 +36,14 @@ flag_chars = re.findall(pattern, text)
 flag = ''.join(flag_chars)
 
 print("Flag:", flag)
-
 ```
 
-``` bash 
+```bash
 ┌──(kali㉿kali)-[~/Desktop]
 └─$ python removechars.py
 Flag: leveleffect{r3g3x_15_345y}
 ```
 
-
-
-**Flag: lag: leveleffect{r3g3x_15_345y}**
+```
+leveleffect{r3g3x_15_345y}
+```

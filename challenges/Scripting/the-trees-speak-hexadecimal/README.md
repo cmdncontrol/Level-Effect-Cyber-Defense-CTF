@@ -16,8 +16,6 @@ Your objective is to identify the number of occurrences of each bad hash across 
 
 * [collections.zip](files/collections.zip)
 
-
-
 ## Solution
 
 ```powershell
@@ -60,8 +58,6 @@ Get-ChildItem -Path $folderPath -File | ForEach-Object {
 foreach ($str in $stringsToSearch) {
     "String '$str' occurred $($occurrenceCount[$str]) times."
 }
-
-
 ```
 
 ```powershell
@@ -77,8 +73,6 @@ String '840e95c6db82474153ecdc2844e8f07ad9a653e075f8c4f2e08b270f4b228ba8' occurr
 String 'ff56dace3f4a4a4e6e3b17025db82ca6373654233b8ece7127a0b75a53239fe1' occurred 1 times.
 ```
 
-
-
-
-
-**Flag: 16**
+```
+16
+```

@@ -19,10 +19,10 @@ def xor_decrypt(encoded_bytes, key):
     key_bytes = key.encode('utf-8')
     decrypted_chars = []
     key_length = len(key_bytes)
-    
+
     for i, byte in enumerate(encoded_bytes):
         decrypted_chars.append(chr(byte ^ key_bytes[i % key_length]))
-    
+
     return ''.join(decrypted_chars)
 
 # Base64 encoded string from the script
@@ -36,12 +36,7 @@ key = "seinfeld"
 decrypted_string = xor_decrypt(encoded_bytes, key)
 
 print(decrypted_string)
-
 ```
-
-
-
-
 
 ```bash
 ┌──(kali㉿kali)-[~/Desktop]
@@ -52,9 +47,8 @@ if (! [string]::IsNullOrEmpty([System.Environment]::GetEnvironmentVariable('PLEA
 } else {
     Write-Output "Ah, ah, ah! You didn't say the magic word!"
 }
-
 ```
 
-
-
-**Flag: leveleffect{serenity_now}**
+```
+leveleffect{serenity_now}
+```

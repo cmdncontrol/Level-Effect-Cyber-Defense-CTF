@@ -30,4 +30,8 @@ Then click the strings icon represented by a capital A to reveal the strings in 
 
 ![image](/images/Mangled.png)
 
-**Flag: leveleffect{upx_i_did_it_again}**
+
+
+```
+leveleffect{upx_i_did_it_again}
+```

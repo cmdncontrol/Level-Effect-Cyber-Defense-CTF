@@ -16,18 +16,14 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 * [zig.zip](files/zig.zip)
 
-
-
 ## Solution
 
-``` cmd
+```cmd
 REG  ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Run /V MyApp /D \"C:\Windows\rundlll32.exe\" /F
 ```
 
-
-
 In the registry add that Zig.exe triggers we can see an imposter rundll32.exe
 
+```
 
-
-**Flag: rundlll32.exe**
+```

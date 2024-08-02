@@ -14,30 +14,6 @@ Provide the full domain and port, such as `domain.tld:4444`
 
 TCPView and watch for olgreg.exe to make a call
 
-**Flag: leveleffectexfilsyourdata.com:9001**
-
-7 
-
-use autoruns and look at services tab
-
-Spooler is running from Temp
-
-8
-
-wireshark on loopback adapter wait for olgreg.exe to fire and capture traffic
-
-leveleffect{et_phone_home}
-
-9
-
-what process is olgreg running under??
-
-explorer.exe
-
-10
-
-explorer.exe is loading a dll from my user roaming profile....
-
-C:\Users\Administrator\AppData\Roaming\.cache\IECleanCache.dll
-
-FC6C275FDE21FE347CA700D514F490B89AB521A15CCFCBDE9E46B79F1BC5E6C0
+```
+leveleffectexfilsyourdata.com:9001
+```

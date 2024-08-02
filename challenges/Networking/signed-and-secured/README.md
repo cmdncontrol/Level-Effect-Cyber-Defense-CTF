@@ -22,4 +22,6 @@ We have intercepted some network traffic after an alert hit from our SOC. Someth
    
    1. Recursively look through the Handshake Protocol and the Directory string contains the flag
 
-**Flag: leveleffect{b0gu5_c3rt1f1c4t3s}**
+```
+leveleffect{b0gu5_c3rt1f1c4t3s}
+```

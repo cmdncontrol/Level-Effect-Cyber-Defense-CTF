@@ -16,12 +16,12 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 * [zig.zip](files/zig.zip)
 
-
-
 ## Solution
 
 The domain found during the Keylogger #1 answer in movezag.ps1
 
 
 
-**Flag: leveleffectgotallyourbase.com**
+```
+
+```

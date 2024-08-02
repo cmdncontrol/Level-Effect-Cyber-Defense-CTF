@@ -16,15 +16,11 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 * [zig.zip](files/zig.zip)
 
-
-
 ## Solution
 
 Using Process Monitor (procmon) after launching Zig, I captured a scheduled task creation. 
 
-
-
-``` cmd
+```cmd
 schtasks /Create /SC MINUTE /MO 5 /TN ScreenSaver /TR "powershell -ExecutionPolicy Bypass -File \"C:\ProgramData\movezig.ps1\"" /F
 ```
 
@@ -32,4 +28,6 @@ This task is called "ScreenSaver" and calls the powershell script movezig.ps1
 
 
 
-**Flag: ScreenSaver**
+```
+
+```

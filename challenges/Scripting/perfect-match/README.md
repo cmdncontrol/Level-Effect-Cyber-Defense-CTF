@@ -42,11 +42,11 @@ Code submission box:
 
 * [input.txt](files/input.txt)
 
-
-
 ## Solution
 
-``` python
+To get this regex correct you have to ensure that you are only capturing IP addresses that are valid. If you focus on just capturing 4 octets you will get results that are "valid" based on the file, but aren't true IPv4 addresses. This had me hung up for a little bit.
+
+```python
 import re
 
 PATTERN = re.compile(r'\b((?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\.(?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\.(?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])\.(?:25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9]))\b')
@@ -69,5 +69,3 @@ def main():
 
 main()
 ```
-
-

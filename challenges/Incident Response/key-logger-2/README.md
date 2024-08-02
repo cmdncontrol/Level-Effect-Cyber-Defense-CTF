@@ -22,4 +22,6 @@ Since we know that rundlll32.exe is the keylogger, let's use procmon to see what
 
 You'll see the standard base.out that you found earlier, but you'll also notice another file being written to..
 
-**Flag: misdirection.out**
+```
+misdirection.out
+```

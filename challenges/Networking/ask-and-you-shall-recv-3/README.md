@@ -12,22 +12,16 @@ Can you figure out how to get to the flag?
 
 * [p3.private.key](files/p3.private.key)
 
-
-
 ## Solution
 
+```bash
 ssh -i p3.private.key -L 8080:localhost:8888 tunneler@0.cloud.chals.io -p 27141
-
-
+```
 
 Open browser and navigate to localhost:8080
 
-
-
 The above will create an SSH tunnel and forward port 8888 from the internal 0.cloud.chals.io network to your local port 8080. 
 
-
-
-**Flag: leveleffect{attack_from_within}**
-
-
+```
+leveleffect{attack_from_within}
+```

