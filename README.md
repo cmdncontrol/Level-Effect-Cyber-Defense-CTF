@@ -2,7 +2,7 @@
 
 ## About
 
-[insert description here]
+The Level Effect Cyber Defense CTF was a blue team focused CTF. Placed 5th overall in this CTF.
 
 ## Challenges
 
