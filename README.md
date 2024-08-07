@@ -118,13 +118,25 @@ The Level Effect Cyber Defense CTF was a blue team focused CTF. Placed 5th overa
 
 * [Where Did I Come From?](<challenges/Incident Response/key-logger-2/>) <em>(advanced,Zig.exe)</em>
 
-* [A New Challenger Arrives](<challenges/Incident Response/sch-part-1-a-new-challenger-arrives/>) <em>(Beginner)</em>
+* [A New Challenger Arrives](<challenges/Incident Response/sch-part-1-a-new-challenger-arrives/>) <em>(Beginner,SCH)</em>
 
-* [A Part of the Club](<challenges/Incident Response/sch-part-2-a-part-of-the-club/>) <em>(Beginner)</em>
+* [A Part of the Club](<challenges/Incident Response/sch-part-2-a-part-of-the-club/>) <em>(Beginner,SCH)</em>
 
-* [Punctual Process](<challenges/Incident Response/sch-part-3-punctual-process>) <em>(Beginner)</em>
+* [Punctual Process](<challenges/Incident Response/sch-part-3-punctual-process>) <em>(Beginner,SCH)</em>
 
-* [Check In](<challenges/Incident Response/sch-part-4-check-in>) <em>(Intermediate)</em>
+* [Check In](<challenges/Incident Response/sch-part-4-check-in>) <em>(Intermediate,SCH)</em>
+
+* [Pasale](<challenges/Incident Response/sch-part-5-psale>) <em>(Intermediate,SCH)</em>
+
+* [Check Out](<challenges/Incident Response/sch-part-6-check-out>) <em>(Advanced,SCH)</em>
+
+* [Wrong Path](<challenges/Incident Response/sch-part-7-wrong-path>) <em>(Advanced,SCH)</em>
+
+* [Beacon](<challenges/Incident Response/sch-part-8-beacon>) <em>(Advanced,SCH)</em>
+
+* [Parasite](<challenges/Incident Response/sch-part-9-parasite>) <em>(Advanced,SCH)</em>
+
+* [Slippery Slug](<challenges/Incident Response/sch-part-10-slippery-slug>) <em>(Advanced,SCH)</em>
 
 
   
