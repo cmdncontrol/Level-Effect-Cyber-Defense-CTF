@@ -117,6 +117,16 @@ The Level Effect Cyber Defense CTF was a blue team focused CTF. Placed 5th overa
 * [Autoruns 5](<challenges/Incident Response/autoruns-5/>) <em>(Advanced)</em>
 
 * [Where Did I Come From?](<challenges/Incident Response/key-logger-2/>) <em>(advanced,Zig.exe)</em>
+
+* [A New Challenger Arrives](<challenges/Incident Response/sch-part-1-a-new-challenger-arrives/>) <em>(Beginner)</em>
+
+* [A Part of the Club](<challenges/Incident Response/sch-part-2-a-part-of-the-club/>) <em>(Beginner)</em>
+
+* [Punctual Process](<challenges/Incident Response/sch-part-3-punctual-process>) <em>(Beginner)</em>
+
+* [Check In](<challenges/Incident Response/sch-part-4-check-in>) <em>(Intermediate)</em>
+
+
   
   ### Email Security
 
